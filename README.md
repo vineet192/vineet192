@@ -1,7 +1,7 @@
 # Hello, if you're here, then you're probably looking to hire me. Here's what you need to know.
 
 # Skills
-I am highly skilled at backend web development using [Node.js](https://nodejs.org/en)/[Express.js](https://expressjs.com/) as evident in https://github.com/vineet192/restaurant-emenu-backend and I have worked with the Django and Flask frameworks as well.
+I am skilled at backend web development using [Node.js](https://nodejs.org/en)/[Express.js](https://expressjs.com/) as evident in https://github.com/vineet192/restaurant-emenu-backend and I have worked with the Django and Flask frameworks as well.
 I have a good understanding of RESTful APIs and the best practices associated with building them.
 
 On the Frontend side, my go to framework is [Next.js](https://nextjs.org/) as evident in https://github.com/vineet192/Restaurant-Emenu. What I love about it is the combination of the flexibility and DRY principles of React with the simplicity of server side rendering and routing. 
