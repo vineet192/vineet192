@@ -5,7 +5,7 @@ I am skilled at backend web development using [Node.js](https://nodejs.org/en)/[
 I have a good understanding of RESTful APIs and the best practices associated with building them.
 
 On the Frontend side, my go to framework is [Next.js](https://nextjs.org/) as evident in https://github.com/vineet192/Restaurant-Emenu. What I love about it is the combination of the flexibility and DRY principles of React with the simplicity of server side rendering and routing. 
-I have worked on Angular as well in a previous internship and in an attempt to build a Video conference application: https://github.com/vineet192/Video-Conference-App. Furthermore, I have expereience building Android applications 
+I have worked on Angular as well in a previous internship and in an attempt to build a Video conference application: https://github.com/vineet192/Video-Conference-App. Furthermore, I have experience building Android applications 
 with Java(in previous internships) and Flutter as evident in my sorting visualizer : https://github.com/vineet192/Sorting-Visualiser.
 
 Now to the databases, I have worked with MySQL and [MongoDB Atlas](https://www.mongodb.com/atlas/database). This can be seen in my various personal projects and in previous internships.
