@@ -12,4 +12,5 @@ Finally, I love hosting projects built with these technologies on **AWS** and **
 
 # Contact
 vkalghat@gmail.com
+
 https://www.linkedin.com/in/vineet-k192/
