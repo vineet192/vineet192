@@ -1,15 +1,15 @@
 # Hello, if you're here, then you're probably looking to hire me. Here's what you need to know.
 
-# Skills
-I am skilled at backend web development using [Node.js](https://nodejs.org/en)/[Express.js](https://expressjs.com/) as evident in https://github.com/vineet192/restaurant-emenu-backend, [Go](https://go.dev/) as evident in https://github.com/vineet192/dev-diaries, and Python([Django](https://www.djangoproject.com/) and [Flask](https://flask.palletsprojects.com/en/3.0.x/)) as evident in [my capstone project](https://www.youtube.com/watch?v=1wWuwWfDwkM).
-I have a good understanding of RESTful APIs and the best practices associated with building them.
+I am skilled in backend web development using **Node.js**+**Express.js** as evident in https://github.com/vineet192/restaurant-emenu-backend, **Go** as evident in https://github.com/vineet192/dev-diaries, and Python(**Django** and **Flask**) as evident in [my capstone project](https://www.youtube.com/watch?v=1wWuwWfDwkM).
 
-On the Frontend side, my go to framework is [Next.js](https://nextjs.org/) as evident in https://github.com/vineet192/Restaurant-Emenu. What I love about it is the combination of the flexibility and DRY principles of React with the simplicity of server side rendering and routing. 
-I have worked on Angular as well in a previous internship and in an attempt to build a Video conference application: https://github.com/vineet192/Video-Conference-App. Furthermore, I have experience building Android applications 
-with Java(in previous internships) and Flutter as evident in my sorting visualizer : https://github.com/vineet192/Sorting-Visualiser.
+On the Frontend side, my go to framework is **Next.js** and **React** as evident in https://github.com/vineet192/Restaurant-Emenu. I have worked on **Angular** as well in a previous internship and in an attempt to build a Video conference application: https://github.com/vineet192/Video-Conference-App. Furthermore, I have experience building Android applications 
+with **Java**(in previous internships) and **Flutter** as evident in my sorting visualizer : https://github.com/vineet192/Sorting-Visualiser.
 
-As for databases, I have worked with [MySQL](https://www.mysql.com/), [PostgreSQL](https://www.postgresql.org/) and [MongoDB Atlas](https://www.mongodb.com/atlas/database).
+As for databases, I have worked with **MySQL**, **PostgreSQL** and **MongoDB**.
+
+Finally, I love hosting projects built with these technologies on **AWS** and **GCP**.
 
 
 # Contact
-You can reach out to me by mail: vkalghat@gmail.com
+vkalghat@gmail.com
+https://www.linkedin.com/in/vineet-k192/
