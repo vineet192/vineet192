@@ -8,12 +8,8 @@ On the Frontend side, my go to framework is [Next.js](https://nextjs.org/) as ev
 I have worked on Angular as well in a previous internship and in an attempt to build a Video conference application: https://github.com/vineet192/Video-Conference-App. Furthermore, I have experience building Android applications 
 with Java(in previous internships) and Flutter as evident in my sorting visualizer : https://github.com/vineet192/Sorting-Visualiser.
 
-Now to the databases, I have worked with [MySQL](https://www.mysql.com/), [PostgreSQL](https://www.postgresql.org/) and [MongoDB Atlas](https://www.mongodb.com/atlas/database).
+As for databases, I have worked with [MySQL](https://www.mysql.com/), [PostgreSQL](https://www.postgresql.org/) and [MongoDB Atlas](https://www.mongodb.com/atlas/database).
 
-I also have comprehensive Machine Learning exertise. In fact, I'm currently working as a student researcher working with Generative AI in the NLP domain.
-
-# Education
-I will have completed my Masters in Computer and Information Science as of December 20 2023 from the University of Buffalo, the State University of New York.
 
 # Contact
 You can reach out to me by mail: vkalghat@gmail.com
